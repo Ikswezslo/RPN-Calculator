@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RPN_Calculator</string>
+    <string name="spin">spinner</string>
+</resources>
